@@ -1,9 +1,9 @@
 <!--prettier-ignore-->
-![avatar](_media/avatar.jpg ':size=800%')
+![avatar](_media/avatar.jpg ':size=600%')
 
 # Steven A. Davidson
 
-> It's All in the details
+> It's all in the details
 
 - Springville, Utah, United States
 - [Email salfred.embellish@gmail.com](mailto:salfred.embellish@gmail.com?body=Hey%2C%20I%20saw%20your%20resume%20online...)
