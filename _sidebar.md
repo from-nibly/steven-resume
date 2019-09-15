@@ -1,0 +1,12 @@
+- About Me
+- [About Me](/#about-me)
+- Selected Works
+  - [LDS Temple](/selected-works/lds-temple.md)
+  - [Period Architecture](/selected-works/period-architecture.md)
+  - [Sheraton Hotel](/selected-works/sheraton.md)
+  - [Walden Lodge](/selected-works/walden-lodge.md)
+  - [Chandelier Structure](/selected-works/chandelier.md)
+  - [Nmelka Residence](/selected-works/nmelka.md)
+  - [Park City](/selected-works/park-city.md)
+  - [Theater](/selected-works/theater.md)
+  - [Remodel](/selected-works/remodel.md)
