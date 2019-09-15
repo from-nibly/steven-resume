@@ -1,6 +1,6 @@
 # Selected Works
 
-# Walden, CO. Lodge
+## Walden, CO. Lodge
 
 ![walden-lodge](../_media/selected-works/walden-lodge.jpg)
 
