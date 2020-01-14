@@ -1,7 +1,5 @@
 # Remodel
 
-![remodel](../_media/selected-works/remodel.jpg)
-
 <div class="main-carousel">
   <img class="carousel-cell" src="./../_media/portfolio/remodel.jpg"/>
 </div>
