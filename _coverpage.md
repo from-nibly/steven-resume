@@ -1,5 +1,5 @@
 <!--prettier-ignore-->
-![avatar](_media/avatar.jpg ':size=600%')
+![avatar](_media/avatar.jpg)
 
 # Steven A. Davidson
 

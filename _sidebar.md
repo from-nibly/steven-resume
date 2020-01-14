@@ -1,12 +1,17 @@
-- About Me
 - [About Me](/#about-me)
-- Selected Works
-  - [LDS Temple](/selected-works/lds-temple.md)
-  - [Period Architecture](/selected-works/period-architecture.md)
-  - [Sheraton Hotel](/selected-works/sheraton.md)
-  - [Walden Lodge](/selected-works/walden-lodge.md)
-  - [Chandelier Structure](/selected-works/chandelier.md)
-  - [Nmelka Residence](/selected-works/nmelka.md)
-  - [Park City](/selected-works/park-city.md)
-  - [Theater](/selected-works/theater.md)
-  - [Remodel](/selected-works/remodel.md)
+- [Personal Strengths](./strengths.md)
+- Portfolio
+  - New Construction
+    - [Home Theater](./portfolio/new-construction/home-theater.md)
+    - [Foyer Chandelier](./portfolio/new-construction/foyer-chandelier.md)
+    - [Log Cabin](./portfolio/new-construction/log-cabin.md)
+    - [Miller Residence](./portfolio/new-construction/miller-residence.md)
+  - Remodel
+    - [Mountain European](./portfolio/remodel/mountain-european.md)
+    - [Rustic Traditional](./portfolio/remodel/rustic-traditional.md)
+  - Commercial
+    - [Sharaton Hotel](./portfolio/commercial/sheraton.md)
+  - Furniture
+    - [LDS Temple](./portfolio/lds-temple.md)
+  - Other
+    - [Remodel](./portfolio/remodel.md)

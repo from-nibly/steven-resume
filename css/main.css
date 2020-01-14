@@ -1,0 +1,33 @@
+@media not all and (max-height: 800px) {
+  .main-carousel {
+    height: 600px;
+    /* max-width: 100%; */
+  }
+  .carousel-cell {
+    height: 600px;
+  }
+  .cover-main img {
+    max-height: 400px;
+  }
+}
+
+@media all and (max-height: 800px) {
+  .main-carousel {
+    height: 400px;
+    /* max-width: 100%; */
+  }
+  .carousel-cell {
+    height: 400px;
+  }
+  .cover-main img {
+    max-height: 400px;
+  }
+}
+
+.carousel-cell {
+  /* center images in cells with flexbox */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}

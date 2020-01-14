@@ -10,6 +10,11 @@
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/flickity@2/dist/flickity.min.css"
+    />
   </head>
   <body>
     <div id="app"></div>
@@ -36,9 +41,26 @@
               return items.join("");
             }
           }
-        }
+        },
+        plugins: [
+          (hook, vm) => {
+            hook.doneEach(() => {
+              const el = document.querySelector(".main-carousel");
+              if (el) {
+                console.log("initializing");
+                const flkty = new Flickity(el, {
+                  celAlign: "left",
+                  contain: true,
+                  wrapAround: true,
+                  setGallerySize: true
+                });
+              }
+            });
+          }
+        ]
       };
     </script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
