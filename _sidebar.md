@@ -6,6 +6,7 @@
     - [Foyer Chandelier](./portfolio/new-construction/foyer-chandelier.md)
     - [Log Cabin](./portfolio/new-construction/log-cabin.md)
     - [Miller Residence](./portfolio/new-construction/miller-residence.md)
+    - [Sandy](./portfolio/new-construction/sandy.md)
   - Remodel
     - [Mountain European](./portfolio/remodel/mountain-european.md)
     - [Rustic Traditional](./portfolio/remodel/rustic-traditional.md)
