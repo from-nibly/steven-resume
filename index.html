@@ -15,6 +15,10 @@
       rel="stylesheet"
       href="//unpkg.com/flickity@2/dist/flickity.min.css"
     />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/flickity-fullscreen@1/fullscreen.css"
+    />
   </head>
   <body>
     <div id="app"></div>
@@ -47,12 +51,12 @@
             hook.doneEach(() => {
               const el = document.querySelector(".main-carousel");
               if (el) {
-                console.log("initializing");
                 const flkty = new Flickity(el, {
                   celAlign: "left",
                   contain: true,
                   wrapAround: true,
-                  setGallerySize: false
+                  setGallerySize: false,
+                  fullscreen: true
                 });
               }
             });
@@ -61,6 +65,8 @@
       };
     </script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script src="https://unpkg.com/flickity-fullscreen@1/fullscreen.js"></script>
+
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>

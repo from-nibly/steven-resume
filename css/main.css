@@ -24,6 +24,11 @@
   }
 }
 
+.main-carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+  max-height: unset;
+}
+
 .carousel-cell {
   /* center images in cells with flexbox */
   display: flex;

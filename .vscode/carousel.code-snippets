@@ -27,6 +27,6 @@
   "slide": {
     "scope": "javscript,markdown,typescript",
     "prefix": "sli",
-    "body": ["  <img class=\"carousel-cell\" src=\"$1\"/>"]
+    "body": ["<img class=\"carousel-cell\" src=\"$1\"/>"]
   }
 }

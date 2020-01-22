@@ -1,9 +1,7 @@
 # Sheraton Hotel
 
-![sheraton-hotel](../_media/selected-works/sheraton-hotel.jpg)
-
-<div class="main-carousel">
-  <img class="carousel-cell" src="../../_media/portfolio/commercial/sheraton-hotel/loby-then.jpg"/>
+<div class="carousel" id="slidr-img">
+  <img data-slidr="one" src="../../_media/portfolio/commercial/sheraton-hotel/loby-then.jpg"/>
 </div>
 
 180 guest rm. Hotel and business conference center, Leomonster, Ma. Assisted in
