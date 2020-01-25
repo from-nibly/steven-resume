@@ -7,6 +7,7 @@
   <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/before-tile.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/before-vanity.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/before-fireplace.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/during-kitchen.jpg"/>
 </div>
 
 General Contractor; Developed new floor plan, designed millwork / casework,
