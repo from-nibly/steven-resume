@@ -21,5 +21,3 @@
     - [Park City](./portfolio/remodel/park-city.md)
   - Commercial
     - [Sharaton Hotel](./portfolio/commercial/sheraton.md)
-  - Other
-    - [Remodel](./portfolio/remodel.md)
