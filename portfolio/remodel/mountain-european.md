@@ -10,9 +10,6 @@
   <img class="carousel-cell" src="/_media/portfolio/remodel/mountain-european/kitchen-2.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/mountain-european/fireplace.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/mountain-european/staircase.jpg"/>
-  <img class="carousel-cell" src="/_media/portfolio/remodel/mountain-european/vanity-4.jpg"/>
-  <img class="carousel-cell" src="/_media/portfolio/remodel/mountain-european/stairs-2.jpg"/>
-  <img class="carousel-cell" src="/_media/portfolio/remodel/mountain-european/kitchen-cabinet.jpg"/>
 </div>
 
 Executed 1.5 k millwork / casework fabrication, installation project over 11

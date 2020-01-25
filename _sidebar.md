@@ -18,6 +18,7 @@
     - [New England Cottage](./portfolio/remodel/new-england-cottage.md)
     - [Mountain Home Deck](./portfolio/remodel/mountain-deck.md)
     - [Neo Classic Traditional](./portfolio/remodel/neo-classic-traditional.md)
+    - [Park City](./portfolio/remodel/park-city.md)
   - Commercial
     - [Sharaton Hotel](./portfolio/commercial/sheraton.md)
   - Other
