@@ -12,12 +12,13 @@
   - Remodel
     - [Mountain European](./portfolio/remodel/mountain-european.md)
     - [Neo Classic Bungalow](./portfolio/remodel/neo-classic-bungalow.md)
+    - [Contemporary Bungalow](./portfolio/remodel/contemporary-bungalow.md)
       <!-- - [Modern Traditional]() -->
     - [Rustic Traditional](./portfolio/remodel/rustic-traditional.md)
-      <!-- - [New England Cottage]() -->
+    - [Semi-formal Early American](./portfolio/remodel/early-american.md)
+    - [New England Cottage](./portfolio/remodel/new-england-cottage.md)
       <!-- - [Modern Coastal]() -->
-      <!-- - [Early American]() -->
-      <!-- - [Mountain Deck]() -->
+    - [Mountain Home Deck](./portfolio/remodel/mountain-deck.md)
   - Commercial
     - [Sharaton Hotel](./portfolio/commercial/sheraton.md)
   - Other

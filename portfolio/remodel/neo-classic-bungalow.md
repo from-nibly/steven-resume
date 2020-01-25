@@ -4,6 +4,7 @@
   <img class="carousel-cell" src="/_media/portfolio/remodel/neo-classic-bungalow/fireplace.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/neo-classic-bungalow/pillar.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/neo-classic-bungalow/staircase.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/neo-classic-bungalow/hallway.jpg"/>
 </div>
 
 Millwork / casework design and shop drawing preparation, fabrication and
