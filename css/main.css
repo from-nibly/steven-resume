@@ -36,3 +36,7 @@
   justify-content: center;
   padding: 10px;
 }
+
+.sidebar ul li {
+  font-size: 18px;
+}
