@@ -8,18 +8,16 @@
     - [Miller Residence](./portfolio/new-construction/miller-residence.md)
     - [Sandy](./portfolio/new-construction/sandy.md)
     - [Seaside Estate](./portfolio/new-construction/seaside-estate.md)
-      <!-- - [Modern Cape]() -->
     - [Neo Classic Cape](portfolio/new-construction/neo-classic-cape.md)
   - Remodel
     - [Mountain European](./portfolio/remodel/mountain-european.md)
     - [Neo Classic Bungalow](./portfolio/remodel/neo-classic-bungalow.md)
     - [Contemporary Bungalow](./portfolio/remodel/contemporary-bungalow.md)
-      <!-- - [Modern Traditional]() -->
     - [Rustic Traditional](./portfolio/remodel/rustic-traditional.md)
     - [Semi-formal Early American](./portfolio/remodel/early-american.md)
     - [New England Cottage](./portfolio/remodel/new-england-cottage.md)
-      <!-- - [Modern Coastal]() -->
     - [Mountain Home Deck](./portfolio/remodel/mountain-deck.md)
+    - [Neo Classic Traditional](./portfolio/remodel/neo-classic-traditional.md)
   - Commercial
     - [Sharaton Hotel](./portfolio/commercial/sheraton.md)
   - Other
