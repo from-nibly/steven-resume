@@ -27,6 +27,7 @@
   <img class="carousel-cell" src="/_media/portfolio/remodel/early-american/pillars.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/early-american/doorway.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/early-american/moulding.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/early-american/sconce.jpg"/>
 </div>
 
 Complete exterior / interior Architectural Design and construction document

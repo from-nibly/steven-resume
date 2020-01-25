@@ -8,6 +8,18 @@
   <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/before-vanity.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/before-fireplace.jpg"/>
   <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/during-kitchen.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-entryway.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-fireplace.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-hood.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-kitchen.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-kitchen-2.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-kitchen-sink.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-kitchen-cabinets.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-livingroom.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-moulding.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-railing.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-railing-2.jpg"/>
+  <img class="carousel-cell" src="/_media/portfolio/remodel/new-england-cottage/after-vanity.jpg"/>
 </div>
 
 General Contractor; Developed new floor plan, designed millwork / casework,

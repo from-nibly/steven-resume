@@ -9,6 +9,7 @@
     - [Sandy](./portfolio/new-construction/sandy.md)
     - [Seaside Estate](./portfolio/new-construction/seaside-estate.md)
       <!-- - [Modern Cape]() -->
+    - [Neo Classic Cape](portfolio/new-construction/neo-classic-cape.md)
   - Remodel
     - [Mountain European](./portfolio/remodel/mountain-european.md)
     - [Neo Classic Bungalow](./portfolio/remodel/neo-classic-bungalow.md)
