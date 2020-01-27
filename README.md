@@ -15,7 +15,7 @@ based, hands on work experience in multiple trade disciplines.
 
 Possess a knowledge of the language of shapes and profiles in their correct
 application in the design process to remain true to historical architectural and
-ornamental embellishment stiles. An architectural style should be identified as
+ornamental embellishment styles. An architectural style should be identified as
 a reference point early in the design process. Begin with the end in mind.
 
 Time in the outdoors enables / allows me to reconnect and sharpen the saw.
