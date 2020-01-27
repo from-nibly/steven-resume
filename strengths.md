@@ -1,40 +1,26 @@
 # Personal Strengths
 
-- Recognized for creative design and problem solving skills when presented with
-  unique and challenging project objectives. Have met and exceeded client
-  expectations.
+- Creative problem solving skills when presented with unique and challenging
+  project objectives, meeting and exceeding client expectations
 
-- Possesses an understanding of the importance of scale and proportional
-  considerations in the design development of the architecture as well as the
-  interior millwork / casework design elements.
+- Recognizes the importance of scale and proportional considerations in the
+  design development of architectural millwork and casework. (interior
+  architecture)
 
-- Developed an understanding of the language of shapes and profiles and their
-  correct application in the design development of period inspired architectural
-  millwork and casework.
+- Possess an understanding of the language of shapes and profiles and their
+  correct application in the design of millwork and casework and their roll of
+  contributing to and maintaining architectural identity.
 
-- Able to conduct and complete field surveys of existing project conditions,
-  general building measurements, documenting plumbing, electrical and mechanical
-  existing conditions.
+- Skilled in conducting comprehensive and accurate field surveys of job site
+  existing conditions for the development of remodeling projects.
 
-- Able to prepare complete and accurate architectural construction documents for
-  residential structures.
+- Experienced in the preparation of construction documents for residential
+  structures as well as millwork / casework shop fabrication drawings.
 
-- Able to prepare complete and accurate architectural millwork and casework shop
-  fabrication documents.
+- Former business owner / operator of an architectural millwork / casework
+  design, fabrication and installation company for estate level residences.
+  Member of AWI.
 
-- Highly skilled journeyman level finish carpenter along with other residential
-  trade disciplines, framing, roofing, exterior siding's window / door
-  installation etc.
-
-- Special interest in residential remodeling projects.
-
-- Former business owner / operator of an architectural millwork casework design,
-  fabrication and installation firm of estate level architectural millwork and
-  casework as well as custom furniture pieces. Responsible for client
-  acquisition, design, shop drawing preparation, staffing, project management.
-  Member of AWI (Architectural Woodworking Institute)
-
-- Possesses professional communication skills, able to facilitate conflict
-  resolution maintaining relationships of trust with the client and other
-  tradesman and project professionals to ensure a satisfied client and long term
-  subcontractor working relationships.
+- Has command of professional communication skills, able to facilitate conflict
+  resolution while maintaining critical relationships of trust and confidence
+  with client subcontractors and other team personnel.
